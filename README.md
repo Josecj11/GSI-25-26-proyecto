@@ -14,11 +14,10 @@ El objetivo es crear una solución CMS basada en **WordPress**, aplicando las fa
 ---
 
 ##  Equipo
-| Nombre | Rol |
-|--------|------|
-| Candela Alonso Montes | Desarrollo y documentación técnica |
-| José Calle Jiménez | Implementación y control de versiones |
-| Toñi Navas | Diseño y maquetación web |
+| Nombre |
+|--------|
+| José Calle Jiménez 
+| Celia Leal|
 
 ---
 
