@@ -18,6 +18,9 @@ El objetivo es crear una solución CMS basada en **WordPress**, aplicando las fa
 |--------|
 | José Calle Jiménez 
 | Celia Leal|
+| Elena |
+| Paula |
+
 
 ---
 
